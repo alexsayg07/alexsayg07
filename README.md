@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexsayg07
-- 👀 I’m interested in data engineering and software development. I had a hard time choosing a major, so I have a hard time choosing a career.
+- 👀 I’m interested in data engineering and software development. Here, you can find my applications of machine learning as well as a couple web apps in development.
 - 🌱 I’m currently learning full stack development to deploy MVP for my future startup.
 - 💞️ I’m looking to collaborate on any passion projects, deep learning projects, and research for model development.
 - 📫 How to reach me: alexsa.yg07 @ Geemayoll.com (I don't want spam)
